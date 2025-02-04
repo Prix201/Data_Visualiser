@@ -1,9 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram name="Page-1" id="kunPT862FFZNJDNygzSh">
-    <mxGraphModel>
+    <mxGraphModel dx="1303" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="32AH9iKesLZB_glOg8Ec-1" value="&lt;div&gt;Input &lt;br&gt;&lt;/div&gt;&lt;div&gt;Tokens&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="32AH9iKesLZB_glOg8Ec-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=35;endSize=14;width=26;fontSize=22;labelBackgroundColor=default;labelBorderColor=none;fillColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="69.5" as="sourcePoint" />
+            <mxPoint x="280" y="69.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32AH9iKesLZB_glOg8Ec-3" value="Index" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="32AH9iKesLZB_glOg8Ec-2">
+          <mxGeometry x="-0.3" y="-2" relative="1" as="geometry">
+            <mxPoint x="8" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="32AH9iKesLZB_glOg8Ec-8" value="W_Embedding" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="25" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
